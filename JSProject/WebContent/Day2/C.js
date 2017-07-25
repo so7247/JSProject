@@ -23,8 +23,13 @@ console.log(f2.length);
 console.log(f3.length);
 console.log(f4.length);
 
+function foo(){
+//	return x + y;
+}
 
-
-
+var foo1 = new foo();
+console.log(foo.name);
+console.log(foo.prototype);
+console.log(foo.prototype.constructor);
 
 
