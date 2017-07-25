@@ -11,7 +11,7 @@ console.log("F-Start");
 ////	a = 20;
 //	this.a = 20
 //}
-//
+//ff
 //foo();
 //console.log('a : ' + a);
 //console.log('window.a : ' + window.a);
@@ -30,6 +30,7 @@ var obj = {
 			myThis.value += 1;
 			console.log('func1 value : ' + myThis.value);
 			
+		
 			func3 = function(){
 				myThis.value += 1;
 				console.log('func1 value : ' + myThis.value);
@@ -41,5 +42,6 @@ var obj = {
 }
 
 obj.func1();
+
 
 
