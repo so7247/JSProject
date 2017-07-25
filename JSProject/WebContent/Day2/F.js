@@ -11,7 +11,7 @@ console.log("F-Start");
 ////	a = 20;
 //	this.a = 20
 //}
-//ff
+//fff
 //foo();
 //console.log('a : ' + a);
 //console.log('window.a : ' + window.a);
