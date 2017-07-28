@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: JSProject
+Bundle-SymbolicName: JSProject
+Bundle-Version: 1.0.0.qualifier
+Export-Package: json.model,
+ json.parser,
+ json.tset
